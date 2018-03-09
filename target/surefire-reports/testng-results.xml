@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="easymvc.devops.AppTest" duration-ms="3" started-at="2018-03-09T06:23:50Z" finished-at="2018-03-09T06:23:50Z">
+  <suite name="easymvc.devops.AppTest" duration-ms="4" started-at="2018-03-09T09:06:52Z" finished-at="2018-03-09T09:06:52Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="3" started-at="2018-03-09T06:23:50Z" finished-at="2018-03-09T06:23:50Z">
+    <test name="Command line test" duration-ms="4" started-at="2018-03-09T09:06:52Z" finished-at="2018-03-09T09:06:52Z">
     </test> <!-- Command line test -->
   </suite> <!-- easymvc.devops.AppTest -->
 </testng-results>
